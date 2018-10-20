@@ -60,7 +60,7 @@
                                 </div><!-- /.gallery-content -->
                             </div>  <!-- /item -->      
                         </div><!-- /.portfolio-wrap -->
-                        <small>Escritório de São Paulo ifojerniopfn vceior vrioev eriov oeriv ioerv oeriv io</small>
+                        <small>Escritório do Rio de Janeiro ifojerniopfn vceior vrioev eriov oeriv ioerv oeriv io</small>
                     </div><!-- /col-md-4 -->
 
                     <div class="col-md-4">
@@ -150,7 +150,7 @@
                         <li><a href="#">3</a></li>                                
                         <li class="next">
                             <a href="#">Próxima</a>
-                        </li>                               
+                        </li>
                     </ul><!-- /.flat-pagination -->
                 </div><!-- /.blog-pagination -->  
 
